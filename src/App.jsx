@@ -21,7 +21,7 @@ export default function App() {
 
       <UHome />
 
-      {/* <Hero />
+      {/* <Hero /> */}
 
       <MarketTicker />
 
@@ -30,7 +30,7 @@ export default function App() {
       <WhyChooseUs />
       <Stats />
       <Testimonials />
-       */}
+
       <Footer />
     </>
   );
