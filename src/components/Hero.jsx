@@ -6,6 +6,7 @@ const Hero = () => {
       {/* Animated Background Elements */}
       <div className="absolute inset-0">
         {/* Grid Pattern */}
+
         <div
           className="absolute inset-0 opacity-10"
           style={{

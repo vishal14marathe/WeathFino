@@ -1,31 +1,31 @@
-import React from 'react';
+import React from "react";
 
 const WhyChooseUs = () => {
   const features = [
     {
-      title: 'Proven Track Record',
-      description: 'Consistent market outperformance',
-      stat: '24.7%',
-      statLabel: 'Avg Annual Return'
+      title: "Proven Track Record",
+      description: "Consistent market outperformance",
+      stat: "24.7%",
+      statLabel: "Avg Annual Return",
     },
     {
-      title: 'Security First',
-      description: 'Bank-level encryption and protection',
-      stat: '100%',
-      statLabel: 'Secure Since 2010'
+      title: "Security First",
+      description: "Bank-level encryption and protection",
+      stat: "100%",
+      statLabel: "Secure Since 2010",
     },
     {
-      title: 'Expert Team',
-      description: 'Former Wall Street professionals',
-      stat: '50+',
-      statLabel: 'Market Experts'
+      title: "Expert Team",
+      description: "Former Wall Street professionals",
+      stat: "50+",
+      statLabel: "Market Experts",
     },
     {
-      title: '24/7 Support',
-      description: 'Always available for our clients',
-      stat: '<5 min',
-      statLabel: 'Response Time'
-    }
+      title: "24/7 Support",
+      description: "Always available for our clients",
+      stat: "<5 min",
+      statLabel: "Response Time",
+    },
   ];
 
   return (
@@ -52,8 +52,12 @@ const WhyChooseUs = () => {
                   <div>
                     <h3 className="text-xl font-bold mb-2">{feature.title}</h3>
                     <p className="text-gray-600 mb-2">{feature.description}</p>
-                    <div className="text-2xl font-bold gradient-text">{feature.stat}</div>
-                    <div className="text-sm text-gray-500">{feature.statLabel}</div>
+                    <div className="text-2xl font-bold gradient-text">
+                      {feature.stat}
+                    </div>
+                    <div className="text-sm text-gray-500">
+                      {feature.statLabel}
+                    </div>
                   </div>
                 </div>
               ))}
@@ -62,27 +66,31 @@ const WhyChooseUs = () => {
 
           {/* Right Column - Visual Element */}
           <div className="bg-gradient-to-br from-primary to-secondary rounded-2xl p-8 text-white">
-            <h3 className="text-2xl font-bold mb-6">Our Commitment</h3>
-            <ul className="space-y-4">
+            <h3 className="text-2xl text-gray-600 font-bold mb-6">Our Commitment</h3>
+            <ul className="space-y-4 text-gray-600">
               {[
-                'Transparent fee structure',
-                'Regular performance reviews',
-                'Custom risk parameters',
-                'Institutional research access'
+                "Transparent fee structure",
+                "Regular performance reviews",
+                "Custom risk parameters",
+                "Institutional research access",
               ].map((item) => (
                 <li key={item} className="flex items-center">
-                  <div className="w-2 h-2 bg-white rounded-full mr-3"></div>
+                  <div className="w-2 h-2 bg-red-600 rounded-full mr-3"></div>
                   {item}
                 </li>
               ))}
             </ul>
-            
+
             {/* Floating Stats */}
-            <div className="mt-12 p-6 bg-white/10 rounded-xl backdrop-blur-sm">
+            <div className="mt-12 p-6 bg-blue-500/10 rounded-xl backdrop-blur-sm">
               <div className="text-center">
                 <div className="text-3xl font-bold mb-2">🏆</div>
-                <div>"Best Wealth Tech 2023"</div>
-                <div className="text-sm opacity-80">Finance Monthly</div>
+                <div className="text-red-600 font-semibold">
+                  "Best Wealth Tech 2023"
+                </div>
+                <div className="text-sm text-gray-600 opacity-80">
+                  Finance Monthly
+                </div>
               </div>
             </div>
           </div>

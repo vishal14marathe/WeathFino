@@ -12,11 +12,16 @@ import TradingTools from "./components/TradingTools";
 import ChartCard from "./components/ChartCard";
 import MarketIndicator from "./components/MarketIndicator";
 
+import UHome from "./updatedComponets/UHome";
+
 export default function App() {
   return (
     <>
       <Navbar />
-      <Hero />
+
+      <UHome />
+
+      {/* <Hero />
 
       <MarketTicker />
 
@@ -25,6 +30,7 @@ export default function App() {
       <WhyChooseUs />
       <Stats />
       <Testimonials />
+       */}
       <Footer />
     </>
   );

@@ -1,132 +1,116 @@
 import React from "react";
 
 const Footer = () => {
-  const currentYear = new Date().getFullYear();
+  const year = new Date().getFullYear();
 
   return (
-    <footer className="bg-trading-navy text-white">
-      <div className="max-w-7xl mx-auto px-6 py-12">
+    <footer className="bg-[#0E1116] text-[#D1D5DB]">
+      <div className="max-w-7xl mx-auto px-6 py-14">
+        {/* TOP GRID */}
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
-          {/* Company Info */}
+          {/* BRAND */}
           <div>
-            <div className="flex items-center space-x-3 mb-6">
-              <div className="w-10 h-10 bg-gradient-to-br from-trading-green to-trading-cyan rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-xl">W</span>
-              </div>
-              <div>
-                <div className="text-2xl font-bold">WealthFino</div>
-                <div className="text-xs text-trading-cyan">TRADING</div>
-              </div>
+            <div className="mb-6">
+              <img
+                src="/wealthfino-logo.png"
+                alt="WealthFino"
+                className="w-14 mb-4"
+              />
             </div>
-            <p className="text-gray-400">
-              Professional trading platform for modern investors. Trade smarter,
-              grow faster.
+
+            <p className="text-sm leading-relaxed mb-6">
+              Join our trading community for shared insights, interactive
+              learning, and a collaborative community to enhance your Knowledge.
+            </p>
+
+            {/* APP STORE */}
+            <div className="flex items-center gap-4 mb-8">
+              <img src="/apple-store.svg" alt="App Store" className="h-10" />
+              <img src="/google-play.svg" alt="Google Play" className="h-10" />
+            </div>
+
+            {/* DISCLAIMER */}
+            <h4 className="text-white font-semibold mb-2">Disclaimer</h4>
+            <p className="text-sm text-gray-400 leading-relaxed">
+              Investment in securities market is subject to market risks. Read
+              all the related documents carefully before investing. Registration
+              granted by SEBI and certification from NISM is no way guarantee
+              performance of the intermediary or provide any assurance of
+              returns to investors.
             </p>
           </div>
 
-          {/* Quick Links */}
+          {/* QUICK LINKS */}
           <div>
-            <h3 className="text-lg font-bold mb-6">Platform</h3>
-            <ul className="space-y-3">
-              {["Features", "Markets", "Pricing", "API Docs", "Mobile App"].map(
-                (item) => (
-                  <li key={item}>
-                    <a
-                      href="#"
-                      className="text-gray-400 hover:text-white transition-colors"
-                    >
-                      {item}
-                    </a>
-                  </li>
-                )
-              )}
+            <h4 className="text-white font-semibold mb-5">Quick Links</h4>
+            <ul className="space-y-3 text-sm">
+              <li>Privacy Policy</li>
+              <li>Client Consent and Terms & Conditions</li>
+              <li>PMLA Policy</li>
+              <li>Terms & Conditions</li>
+              <li>Disclosure, USER & KYC Agreement</li>
+              <li>Disclaimer for Website</li>
+              <li>Redressal Of Grievance</li>
+              <li>Social Media Disclaimers</li>
+              <li>Legal & Risk Disclosure</li>
+              <li>Refund & Cancellation Policy</li>
+              <li>Internal Policy on Conflict of Interest</li>
+              <li>Investor Charter</li>
+              <li>Complaints Board</li>
             </ul>
           </div>
 
-          {/* Resources */}
+          {/* CONTACT INFORMATION */}
           <div>
-            <h3 className="text-lg font-bold mb-6">Resources</h3>
-            <ul className="space-y-3">
-              {[
-                "Education Center",
-                "Market Analysis",
-                "Webinars",
-                "Blog",
-                "Support",
-              ].map((item) => (
-                <li key={item}>
-                  <a
-                    href="#"
-                    className="text-gray-400 hover:text-white transition-colors"
-                  >
-                    {item}
-                  </a>
-                </li>
-              ))}
+            <h4 className="text-white font-semibold mb-5">
+              Contact Information
+            </h4>
+
+            <ul className="space-y-4 text-sm">
+              <li className="flex items-center gap-3">
+                📧 info@krishnapathak.com
+              </li>
+              <li className="flex items-center gap-3">📞 +91 9883455700</li>
+              <li className="flex items-center gap-3">
+                💬 WhatsApp Support - 9353523685
+              </li>
             </ul>
           </div>
 
-          {/* Legal */}
+          {/* LEGAL */}
           <div>
-            <h3 className="text-lg font-bold mb-6">Legal</h3>
-            <ul className="space-y-3">
-              {[
-                "Privacy Policy",
-                "Terms of Service",
-                "Risk Disclosure",
-                "Cookie Policy",
-                "Compliance",
-              ].map((item) => (
-                <li key={item}>
-                  <a
-                    href="#"
-                    className="text-gray-400 hover:text-white transition-colors"
-                  >
-                    {item}
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </div>
-        </div>
-
-        {/* Divider */}
-        <div className="border-t border-gray-800 my-8"></div>
-
-        {/* Bottom Bar */}
-        <div className="flex flex-col md:flex-row justify-between items-center">
-          <div className="text-gray-400 text-sm">
-            © {currentYear} WealthFino Trading. All rights reserved.
-          </div>
-
-          <div className="mt-4 md:mt-0">
-            <div className="flex space-x-6">
-              <a href="#" className="text-gray-400 hover:text-white">
-                <i className="fab fa-twitter"></i>
-              </a>
-              <a href="#" className="text-gray-400 hover:text-white">
-                <i className="fab fa-linkedin"></i>
-              </a>
-              <a href="#" className="text-gray-400 hover:text-white">
-                <i className="fab fa-youtube"></i>
-              </a>
-              <a href="#" className="text-gray-400 hover:text-white">
-                <i className="fab fa-github"></i>
-              </a>
+            <div className="bg-[#1B2433] rounded-xl p-6 mb-6">
+              <p className="text-white font-medium mb-1">Krishna Pathak</p>
+              <p className="text-sm mb-2">SEBI Registered Research Analyst</p>
+              <p className="text-sm">
+                SEBI Reg. No : INH300009914 <br />
+                BSE Enlistment No : 5590
+              </p>
             </div>
+
+            <h4 className="text-white font-semibold mb-3">Address</h4>
+            <p className="text-sm leading-relaxed">
+              RS-39/43, 5/3C Golden Park, Sankarpur West, Near Rabindranagar
+              Co-operative, Durgapur, West Bengal - 713206
+            </p>
           </div>
         </div>
 
-        {/* Risk Warning */}
-        <div className="mt-8 p-4 bg-gray-900/50 rounded-lg text-sm text-gray-400 text-center">
-          <p>
-            <strong className="text-trading-orange">
-              ⚠️ Trading involves risk:
-            </strong>{" "}
-            Past performance does not guarantee future results. Only trade with
-            capital you can afford to lose.
-          </p>
+        {/* DIVIDER */}
+        <div className="border-t border-white/10 my-10"></div>
+
+        {/* SOCIAL ICONS */}
+        <div className="flex justify-center gap-8 text-gray-400 mb-6">
+          <span>▶️</span>
+          <span>✖</span>
+          <span>📷</span>
+          <span>✈️</span>
         </div>
+
+        {/* COPYRIGHT */}
+        <p className="text-center text-sm text-gray-400">
+          Copyright © {year} WealthFino. All rights reserved.
+        </p>
       </div>
     </footer>
   );
