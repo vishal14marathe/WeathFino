@@ -24,7 +24,7 @@ const UHome = () => {
       />
 
       {/* CONTENT */}
-      <div className="relative max-w-7xl mx-auto px-10 pt-28 grid md:grid-cols-2 gap-20 items-center">
+      <div className="relative max-w-7xl mx-auto px-10 pt-18 grid md:grid-cols-2 gap-20 items-center">
         {/* LEFT CONTENT */}
         <div>
           <h1 className="text-4xl md:text-5xl font-bold leading-tight">
