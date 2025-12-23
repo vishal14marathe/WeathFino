@@ -34,7 +34,7 @@ export default function App() {
 
       <WhyChooseUs />
 
-      <Stats />
+      {/* <Stats /> */}
 
       <FeedbackPage />
 
