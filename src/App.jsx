@@ -13,6 +13,8 @@ import ChartCard from "./components/ChartCard";
 import MarketIndicator from "./components/MarketIndicator";
 
 import UHome from "./updatedComponets/UHome";
+import FeedbackPage from "./updatedComponets/FeedbackPage";
+import FeaturesSection from "./updatedComponets/FeaturesSection";
 
 export default function App() {
   return (
@@ -23,13 +25,18 @@ export default function App() {
 
       {/* <Hero /> */}
 
+      <FeaturesSection />
       <MarketTicker />
 
       <About />
+
       <Services />
+
       <WhyChooseUs />
+
       <Stats />
-      <Testimonials />
+
+      <FeedbackPage />
 
       <Footer />
     </>
