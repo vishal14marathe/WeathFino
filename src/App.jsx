@@ -1,42 +1,43 @@
+import { Routes, Route } from "react-router-dom";
+
 import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import Services from "./components/Services";
-import WhyChooseUs from "./components/WhyChooseUs";
-import Stats from "./components/Stats";
-import Testimonials from "./components/Testimonials";
-import CTA from "./components/CTA";
 import Footer from "./components/Footer";
-import About from "./components/About";
-import MarketTicker from "./components/MarketTicker";
-import TradingTools from "./components/TradingTools";
-import ChartCard from "./components/ChartCard";
-import MarketIndicator from "./components/MarketIndicator";
 
 import UHome from "./updatedComponets/UHome";
-import FeedbackPage from "./updatedComponets/FeedbackPage";
 import FeaturesSection from "./updatedComponets/FeaturesSection";
+import MarketTicker from "./components/MarketTicker";
+import About from "./components/About";
+import Services from "./components/Services";
+import WhyChooseUs from "./components/WhyChooseUs";
+import FeedbackPage from "./updatedComponets/FeedbackPage";
+
+import Policies from "./components/Policies";
 
 export default function App() {
   return (
     <>
       <Navbar />
 
-      <UHome />
+      <Routes>
+        {/* HOME PAGE */}
+        <Route
+          path="/"
+          element={
+            <>
+              <UHome />
+              <FeaturesSection />
+              <MarketTicker />
+              <About />
+              <Services />
+              <WhyChooseUs />
+              <FeedbackPage />
+            </>
+          }
+        />
 
-      {/* <Hero /> */}
-
-      <FeaturesSection />
-      <MarketTicker />
-
-      <About />
-
-      <Services />
-
-      <WhyChooseUs />
-
-      {/* <Stats /> */}
-
-      <FeedbackPage />
+        {/* POLICIES PAGE */}
+        <Route path="/policies" element={<Policies />} />
+      </Routes>
 
       <Footer />
     </>

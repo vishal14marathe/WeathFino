@@ -1,14 +1,16 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const menuItems = [
-    { label: "Platform", href: "#platform" },
-    { label: "Markets", href: "#markets" },
-    { label: "Tools", href: "#tools" },
-    { label: "Education", href: "#education" },
-    { label: "Pricing", href: "#pricing" },
+    { label: "Home", href: "#home" },
+    { label: "Blogs", href: "#blogs" },
+    { label: "Charts", href: "#charts" },
+    { label: "About", href: "#about" },
+    { label: "Policies", path: "/policies" },  
+    { label: "Contact", href: "#contact" },
   ];
 
   return (
@@ -31,17 +33,28 @@ const Navbar = () => {
           </div>
 
           {/* Desktop Menu */}
-          <div className="hidden md:flex items-center space-x-8">
-            {menuItems.map((item) => (
-              <a
-                key={item.label}
-                href={item.href}
-                className="text-gray-600 hover:text-trading-blue font-medium transition-colors"
-              >
-                {item.label}
-              </a>
-            ))}
-            <div className="flex items-center space-x-4">
+          <div className="hidden md:flex items-center space-x-10">
+            {menuItems.map((item) =>
+              item.path ? (
+                <Link
+                  key={item.label}
+                  to={item.path}
+                  className="text-gray-600 hover:text-trading-blue font-medium transition-colors"
+                >
+                  {item.label}
+                </Link>
+              ) : (
+                <a
+                  key={item.label}
+                  href={item.href}
+                  className="text-gray-600 hover:text-trading-blue font-medium transition-colors"
+                >
+                  {item.label}
+                </a>
+              )
+            )}
+
+            <div className="flex items-center space-x-12">
               <button className="btn-secondary">Log In</button>
               <button className="btn-primary">Start Trading</button>
             </div>
@@ -64,16 +77,28 @@ const Navbar = () => {
         {isOpen && (
           <div className="md:hidden py-4 border-t">
             <div className="space-y-3">
-              {menuItems.map((item) => (
-                <a
-                  key={item.label}
-                  href={item.href}
-                  className="block py-2 text-gray-600 hover:text-trading-blue"
-                  onClick={() => setIsOpen(false)}
-                >
-                  {item.label}
-                </a>
-              ))}
+              {menuItems.map((item) =>
+                item.path ? (
+                  <Link
+                    key={item.label}
+                    to={item.path}
+                    className="block py-2 text-gray-600 hover:text-trading-blue"
+                    onClick={() => setIsOpen(false)}
+                  >
+                    {item.label}
+                  </Link>
+                ) : (
+                  <a
+                    key={item.label}
+                    href={item.href}
+                    className="block py-2 text-gray-600 hover:text-trading-blue"
+                    onClick={() => setIsOpen(false)}
+                  >
+                    {item.label}
+                  </a>
+                )
+              )}
+
               <div className="pt-4 space-y-3">
                 <button className="w-full btn-secondary">Log In</button>
                 <button className="w-full btn-primary">Start Trading</button>
