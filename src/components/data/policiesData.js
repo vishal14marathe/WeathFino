@@ -322,4 +322,794 @@ export const policiesData = {
       "By clicking “I Agree”, the Client/User confirms full acceptance of all policies, disclosures, and terms, and authorizes initiation of services.",
     ],
   },
+
+  "Code of Conduct": {
+    title: "Code of Conduct ",
+    content: [
+      "Krishna Kumar Pathak",
+      "SEBI-Registered Research Analyst",
+      "Registration No.: INH300009914 | BSE Enlistment No.: 5590",
+      "Dated: 22 June 2022",
+
+      "In accordance with Regulation 24(2) of the SEBI (Research Analyst) Regulations, 2014, I shall maintain the following Code of Conduct:",
+
+      "1. Honesty and Good Faith",
+      "I shall act honestly and in good faith while discharging my professional duties as a Research Analyst.",
+
+      "2. Diligence",
+      "I shall act with due skill, care, and diligence and ensure that research reports are prepared after thorough analysis.",
+
+      "3. Conflict of Interest",
+      "I shall effectively address conflicts of interest that may affect the impartiality of research analysis and research reports and make appropriate disclosures wherever required.",
+
+      "4. Insider Trading or Front Running",
+      "I shall not engage in insider trading or front running of my own research reports or recommendations.",
+
+      "5. Confidentiality",
+      "I shall maintain confidentiality of the research report until such time as the report is made public.",
+
+      "6. Professional Standards",
+      "I shall observe high professional standards while engaged in research analysis and preparation of research reports.",
+
+      "7. Compliance",
+      "I shall comply with all regulatory requirements applicable to the conduct of my business activities as a Research Analyst.",
+
+      "8. Responsibility of Senior Management",
+      "I shall bear primary responsibility as senior management for ensuring maintenance of appropriate standards of conduct and adherence to proper procedures.",
+
+      "Regards,",
+      "Krishna Pathak",
+      "(Individual)",
+    ],
+  },
+
+  "Investor Charter": {
+    title: "Investor Charter",
+    content: [
+      "VISION AND MISSION STATEMENTS FOR INVESTORS",
+
+      "Vision:",
+      "Invest with knowledge & safety.",
+
+      "Mission:",
+      "Every investor should be able to invest in the right investment products based on their needs, manage and monitor them to meet their goals, access reports, and enjoy financial wellness.",
+
+      "DETAILS OF BUSINESS TRANSACTED BY THE RESEARCH ANALYST",
+
+      "To publish research reports based on the research activities of the Research Analyst.",
+      "To provide an independent and unbiased view on securities.",
+      "To offer unbiased recommendations with disclosure of financial interests in recommended securities, if any.",
+      "To provide research recommendations based on analysis of publicly available information and known observations.",
+      "To conduct audit annually.",
+      "To ensure that all advertisements adhere to the Advertisement Code for Research Analysts.",
+      "To maintain records of interactions with all clients, including prospective clients, where discussions related to research services have taken place.",
+
+      "DETAILS OF SERVICES PROVIDED TO INVESTORS (NO INDICATIVE TIMELINES)",
+
+      "Onboarding of clients.",
+      "Sharing of terms and conditions of research services.",
+      "Completion of KYC of fee-paying clients.",
+
+      "DISCLOSURES TO CLIENTS",
+
+      "To disclose information material for investors to make informed decisions, including business activities, disciplinary history, terms and conditions, associates, risks, and conflicts of interest.",
+      "To disclose the extent of use of Artificial Intelligence tools in providing research services.",
+      "To disclose material conflicts of interest while distributing third-party research reports or provide links to such disclosures.",
+      "To disclose conflicts of interest arising from other activities of the Research Analyst.",
+      "To distribute research reports and recommendations without discrimination.",
+      "To maintain confidentiality of research reports until made public.",
+      "To respect data privacy rights of clients and prevent unauthorized use of confidential information.",
+      "To disclose timelines for services and adhere to them.",
+      "To provide adequate caution and guidance when dealing in complex and high-risk financial products.",
+      "To treat all clients with honesty, integrity, and fairness.",
+      "To ensure confidentiality of client information unless disclosure is required by law or consent is provided.",
+
+      "GRIEVANCE REDRESSAL MECHANISM",
+
+      "Investors may lodge complaints or grievances against the Research Analyst using the following mechanisms:",
+
+      "Mode of filing complaint with Research Analyst:",
+      "In case of any grievance, investors may approach the Research Analyst directly. The grievance shall be redressed at the earliest, but not later than 21 days from receipt.",
+
+      "Mode of filing complaint through SCORES / RAASB:",
+      "SCORES 2.0 – SEBI’s centralized web-based grievance redressal system: https://scores.sebi.gov.in",
+      "Complaints are reviewed in two stages:",
+      "First level review by Research Analyst Administration and Supervisory Body (RAASB).",
+      "Second level review by SEBI.",
+      "Investors may also email the designated email ID of RAASB.",
+
+      "SMART ODR:",
+      "If the investor is not satisfied with the resolution, the complaint may be escalated to the SMART ODR platform (https://smartodr.in) for online conciliation or arbitration.",
+
+      "Physical Complaints:",
+      "Office of Investor Assistance and Education, SEBI Bhavan, Plot No. C4-A, 'G' Block, Bandra-Kurla Complex, Bandra (E), Mumbai – 400 051.",
+
+      "RIGHTS OF INVESTORS",
+
+      "Right to Privacy and Confidentiality.",
+      "Right to Transparent Practices.",
+      "Right to Fair and Equitable Treatment.",
+      "Right to Adequate Information.",
+      "Right to Initial and Continuing Disclosure.",
+      "Right to receive information about all statutory and regulatory disclosures.",
+      "Right to Fair and True Advertisement.",
+      "Right to Awareness of Service Parameters and Turnaround Times.",
+      "Right to be informed of timelines for each service.",
+      "Right to be Heard and to Satisfactory Grievance Redressal.",
+      "Right to timely redressal.",
+      "Right to Exit from financial products or services as per agreed terms.",
+      "Right to clear guidance and caution when dealing in complex and high-risk products.",
+      "Additional rights for vulnerable consumers.",
+      "Right to access services in a suitable manner even if differently abled.",
+      "Right to provide feedback on services used.",
+      "Right against coercive, unfair, or one-sided contractual clauses.",
+
+      "EXPECTATIONS OF INVESTORS (RESPONSIBILITIES)",
+
+      "DOs:",
+      "Always deal with SEBI-registered Research Analysts.",
+      "Verify the SEBI registration number of the Research Analyst.",
+      "Refer to the list of SEBI-registered Research Analysts available on SEBI website: https://www.sebi.gov.in",
+      "Carefully review disclosures in research reports before investing.",
+      "Make payments only through banking channels and retain receipts.",
+      "Use CeFCoM (Centralized Fee Collection Mechanism) where applicable.",
+      "Seek clarification on recommendations, especially for complex or high-risk products.",
+      "Exercise the right to discontinue services if desired.",
+      "Provide feedback on services received.",
+      "Inform SEBI if assured or guaranteed returns are being offered.",
+
+      "DON’Ts:",
+      "Do not provide funds for investment to the Research Analyst.",
+      "Do not fall prey to misleading advertisements or market rumours.",
+      "Do not be influenced by limited-period discounts or incentives.",
+      "Do not share login credentials or passwords of trading, demat, or bank accounts with the Research Analyst.",
+    ],
+  },
+
+  "Redressal of Grievance": {
+    title: "Redressal of Grievance / Escalation Matrix",
+    content: [
+      "GRIEVANCE REDRESSAL PROCESS",
+
+      "We value your trust and are committed to resolving all concerns in a fair and timely manner. If you have any grievance or feedback regarding our services, you may follow the steps outlined below:",
+
+      "Step 1: Contact Your Assigned Representative",
+      "If you are dissatisfied with any service, please first contact the Research Analyst department representative or consultant assigned to you. You may discuss your concerns directly with them. We will strive to resolve the issue within 7 to 10 working days on a best-effort basis.",
+
+      "Step 2: Reach Out via Call or Email",
+      "You may also contact your assigned representative by calling +91 98834 55700 or by emailing skrishna.sk4@gmail.com.",
+
+      "Step 3: Submit a Formal Complaint",
+      "If the issue remains unresolved, you may submit your complaint in writing or by email to skrishna.sk4@gmail.com.",
+      "We aim to respond to and resolve all complaints within 7 to 10 working days. Once your concern is received, we will evaluate the issue and provide a clear resolution.",
+
+      "Step 4: Escalate to the Compliance Officer",
+      "If you are not satisfied with the response or resolution provided, you may escalate the matter to:",
+      "Name: Mr. Krishna Pathak (Compliance Officer)",
+      "Email: wealthfino@gmail.com",
+      "Phone: +91 98834 55700",
+      "Mr. Pathak will review your concern and get in touch with you at the earliest.",
+
+      "Step 5: Approach SEBI SCORES Platform",
+      "If your complaint remains unresolved for more than one month, you may escalate it to the regulator, the Securities and Exchange Board of India (SEBI), through the SCORES platform:",
+      "https://scores.sebi.gov.in",
+
+      "Step 6: SEBI-Supported ODR Platform",
+      "If the issue remains unresolved even after approaching SCORES, you may initiate dispute resolution through SEBI’s Online Dispute Resolution (ODR) portal:",
+      "https://smartodr.in/login",
+
+      "GRIEVANCE REDRESSAL CONTACT DETAILS",
+
+      "For any complaints, queries, or feedback regarding our services, please use the following contact details. We are committed to resolving all concerns ethically and promptly.",
+
+      "Customer Care",
+      "Contact Person: Krishna Pathak",
+      "Address: RS-39/43, 5/3C Golden Park, Sankarpur West, Near Rabindranagar Co-operative, Durgapur, West Bengal – 713206",
+      "Contact No.: +91 93353 23685",
+      "Email: wealthfino@gmail.com",
+      "Working Hours: 10:00 AM – 6:00 PM",
+
+      "Compliance Officer",
+      "Contact Person: Krishna Pathak",
+      "Address: RS-39/43, 5/3C Golden Park, Sankarpur West, Near Rabindranagar Co-operative, Durgapur, West Bengal – 713206",
+      "Contact No.: +91 98834 55700",
+      "Email: wealthfino@gmail.com",
+      "Working Hours: 10:00 AM – 6:00 PM",
+
+      "Principal Officer",
+      "Contact Person: Krishna Pathak",
+      "Address: RS-39/43, 5/3C Golden Park, Sankarpur West, Near Rabindranagar Co-operative, Durgapur, West Bengal – 713206",
+      "Contact No.: +91 98834 55700",
+      "Email: skrishna.sk4@gmail.com",
+      "Working Hours: 10:00 AM – 6:00 PM",
+    ],
+  },
+
+  "Disclosure, User & KYC Agreement": {
+    title: "Disclosure, User & KYC Agreement",
+    content: [
+      "Issued by: Krishna Kumar Pathak",
+      "SEBI Registered Research Analyst – INH300009914",
+      "Brand Name: WealthFino",
+      "BSE Enlistment No.: 5590",
+      "Address: RS-39/43, 5/3C Golden Park, Sankarpur West, Near Rabindranatar Co-operative, Durgapur, West Bengal – 713206",
+
+      "1. ABOUT THE RESEARCH ANALYST",
+      "Mr. Krishna Kumar Pathak is a SEBI-registered Research Analyst (Registration No. INH300009914) operating under the brand name WealthFino from Durgapur, West Bengal. He provides independent research analysis and model portfolios.",
+
+      "2. EDUCATIONAL & PROFESSIONAL QUALIFICATIONS",
+      "Post Graduate Diploma in Management (PGDM).",
+      "Certified under NISM-Series XV: Research Analyst.",
+
+      "3. NATURE OF BUSINESS ACTIVITIES",
+      "Independent equity research reports.",
+      "Buy/Sell/Hold recommendations on listed Indian equities and derivatives.",
+      "Model portfolio strategies and educational resources.",
+      "WealthFino does not offer portfolio management, fund-based, or execution services.",
+
+      "4. DISCIPLINARY HISTORY",
+      "There are no pending or past disciplinary actions, penalties, or litigations against Krishna Kumar Pathak by SEBI, stock exchanges, or any regulatory authority.",
+
+      "5. TERMS & CONDITIONS OF RESEARCH USAGE",
+      "All information is prepared with due diligence but accuracy or completeness is not guaranteed.",
+      "Opinions are based on current research and may change without notice.",
+      "Users should rely on their own judgment and professional advice before acting.",
+      "The Research Analyst shall not be responsible for any loss arising from use of the information.",
+
+      "6. FINANCIAL INTEREST / OWNERSHIP DISCLOSURE",
+      "The Research Analyst holds no financial interest or beneficial ownership of 1% or more in the securities discussed.",
+      "There is no material conflict of interest on the date of publication.",
+
+      "7. BROKERAGE & AFFILIATIONS",
+      "WealthFino and Krishna Kumar Pathak are not affiliated with any broker, intermediary, or distributor.",
+      "No brokerage, commission, or incentive is received from third parties.",
+
+      "8. COMPENSATION DISCLOSURE",
+      "No compensation has been received from companies covered in research during the past twelve months.",
+
+      "9. PUBLIC OFFERING INVOLVEMENT",
+      "Neither Krishna Kumar Pathak nor WealthFino has managed or co-managed any public offering of securities during the past twelve months.",
+
+      "10. EMPLOYMENT DISCLOSURE",
+      "The Research Analyst has never been employed as an officer, director, or executive of companies mentioned in reports.",
+      "He is not involved in market-making of any securities.",
+
+      "11. SOURCES AND RISK ADVISORY",
+      "Information is sourced from publicly available platforms such as NSE/BSE, SEBI filings, Bloomberg, corporate announcements, annual reports, and financial news portals.",
+      "Research content is for informational and educational purposes only and not investment advice.",
+      "Market conditions are volatile and outcomes may differ from expectations.",
+      "Independent advice from a SEBI-registered Investment Advisor is recommended.",
+
+      "12. RISK DISCLOSURE ON DERIVATIVES (F&O)",
+      "SEBI study dated 25 January 2023 highlights that 9 out of 10 individual traders in equity F&O incur losses.",
+      "Average net trading loss is close to ₹50,000.",
+      "Derivatives trading carries high risk and is not suitable for all investors.",
+
+      "13. COMPREHENSIVE LEGAL DISCLAIMER",
+      "Research content is for educational purposes only and does not constitute financial, legal, or tax advice.",
+      "No warranty or guarantee is provided regarding accuracy or returns.",
+      "The Research Analyst and WealthFino shall not be liable for any losses or damages.",
+      "Users are responsible for verifying authenticity of communications and payment channels.",
+      "Users agree to indemnify and hold harmless the Research Analyst and WealthFino.",
+
+      "ACCEPTANCE OF OTP-BASED CONSENT, TERMS & KYC DECLARATION",
+      "By clicking Accept, signing physically or electronically, or providing consent via OTP, the User agrees to all governing documents including T&C, Privacy Policy, Investor Charter, Disclosures, and Grievance Redressal Policy.",
+      "All information provided by the User is true, correct, and up to date.",
+      "Users are responsible for updating KYC details and submitting required documents.",
+      "Electronic consent is legally valid under the IT Act, Indian Contract Act, and Evidence Act.",
+
+      "RISK ACKNOWLEDGEMENT & PERSONAL RESPONSIBILITY",
+      "Investments are subject to market risks and may result in partial or total loss.",
+      "No assurance or guarantee of returns is provided.",
+      "All decisions are taken at the User’s own discretion and risk.",
+
+      "LIMITATION OF LIABILITY, WAIVER & INDEMNITY",
+      "The User irrevocably waives all claims against the Research Analyst and WealthFino.",
+      "The User agrees to indemnify against any claims arising from misuse, misrepresentation, or violation of laws.",
+
+      "REGULATORY COMPLIANCE",
+      "The User agrees to comply with PMLA, IT Act, Indian Contract Act, SEBI regulations, RBI guidelines, and other applicable laws.",
+
+      "GOVERNING LAW & JURISDICTION",
+      "This Agreement shall be governed by Indian law.",
+      "Courts at Durgapur, West Bengal shall have exclusive jurisdiction.",
+
+      "SEVERABILITY",
+      "If any provision is held invalid, remaining provisions shall remain in force.",
+
+      "ELECTRONIC ACCEPTANCE & IP LOGGING POLICY",
+      "Electronic actions such as OTP verification, click-wrap consent, or digital signature constitute valid acceptance.",
+      "IP address, timestamp, and device details may be logged for legal and regulatory compliance.",
+      "Consent records shall be retained for a minimum of five years.",
+
+      "USER AGREEMENT & FINAL DISCLAIMER",
+      "Research views are general in nature and not personalized investment advice.",
+      "Users must exercise independent judgment and consult financial advisors where required.",
+      "By using the services, the User fully accepts this Agreement and Disclaimer.",
+    ],
+  },
+
+  "Complaints Board": {
+    title: "Complaints Board",
+    content: [
+      "DISCLOSURE, USER & KYC AGREEMENT",
+
+      "Issued by: Krishna Kumar Pathak",
+      "SEBI Registered Research Analyst – INH300009914",
+      "Brand Name: WealthFino",
+      "BSE Enlistment No.: 5590",
+      "Address: RS-39/43, 5/3C Golden Park, Sankarpur West, Near Rabindranatar Co-operative, Durgapur, West Bengal – 713206",
+
+      "1. ABOUT THE RESEARCH ANALYST",
+      "Mr. Krishna Kumar Pathak is a SEBI-registered Research Analyst (Registration No. INH300009914) operating under the brand WealthFino from Durgapur, West Bengal. He provides independent research analysis and model portfolios.",
+
+      "2. EDUCATIONAL & PROFESSIONAL QUALIFICATIONS",
+      "Post Graduate Diploma in Management (PGDM).",
+      "Certified under NISM-Series XV: Research Analyst.",
+
+      "3. NATURE OF BUSINESS ACTIVITIES",
+      "Independent equity research reports.",
+      "Buy/Sell/Hold recommendations on listed Indian equities and derivatives.",
+      "Model portfolio strategies and educational resources.",
+      "WealthFino does not offer portfolio management, fund-based services, or execution services.",
+
+      "4. DISCIPLINARY HISTORY",
+      "There are no pending or past disciplinary actions, penalties, or litigations against Krishna Kumar Pathak by SEBI, stock exchanges, or any regulatory authority.",
+
+      "5. TERMS & CONDITIONS OF RESEARCH USAGE",
+      "Information is prepared with due diligence; however, accuracy or completeness is not guaranteed.",
+      "Opinions may change without notice.",
+      "Recipients must rely on their own judgment and professional advice.",
+      "No responsibility is accepted for losses arising from reliance on this information.",
+
+      "6. FINANCIAL INTEREST / OWNERSHIP DISCLOSURE",
+      "The Research Analyst holds no financial interest or beneficial ownership of 1% or more in any securities discussed.",
+      "There is no material conflict of interest.",
+
+      "7. BROKERAGE & AFFILIATIONS",
+      "No affiliation with brokers, intermediaries, or distributors.",
+      "No brokerage, commission, or incentives are received from third parties.",
+
+      "8. COMPENSATION DISCLOSURE",
+      "No compensation has been received from companies covered in research during the past twelve months.",
+
+      "9. PUBLIC OFFERING INVOLVEMENT",
+      "No public offering of securities has been managed or co-managed in the last twelve months.",
+
+      "10. EMPLOYMENT DISCLOSURE",
+      "The Research Analyst has never been employed as an officer, director, or executive of companies mentioned in reports.",
+      "He is not involved in market-making activities.",
+
+      "11. SOURCES AND RISK ADVISORY",
+      "Information is sourced from NSE/BSE, SEBI filings, Bloomberg, corporate announcements, annual reports, and financial news portals.",
+      "Research content is for educational and informational purposes only.",
+      "Market conditions are volatile and outcomes may vary.",
+      "Independent advice from a SEBI-registered Investment Advisor is recommended.",
+
+      "12. RISK DISCLOSURE ON DERIVATIVES (F&O)",
+      "As per SEBI study dated 25 January 2023:",
+      "9 out of 10 individual traders in equity F&O incur net losses.",
+      "Average net trading loss is approximately ₹50,000.",
+      "Derivatives trading carries high risk and is not suitable for all investors.",
+
+      "13. COMPREHENSIVE LEGAL DISCLAIMER",
+      "Research content is not financial, legal, or tax advice.",
+      "No warranty or guarantee of accuracy or returns.",
+      "The Research Analyst and WealthFino shall not be liable for losses or damages.",
+      "Users must verify payment channels and communications independently.",
+      "Users agree to indemnify and hold harmless the Research Analyst and WealthFino.",
+
+      "USER CONSENT & KYC DECLARATION",
+      "By accepting electronically (OTP, digital signature, click-wrap), the User agrees to all governing documents including Terms & Conditions, Privacy Policy, Investor Charter, Disclosures, and Grievance Redressal Policy.",
+      "All information provided by the User must be accurate and up to date.",
+      "Electronic consent is legally valid under Indian laws.",
+
+      "LIMITATION OF LIABILITY & INDEMNITY",
+      "The User irrevocably waives all claims against the Research Analyst and WealthFino.",
+      "The User agrees to indemnify against claims arising from misuse or violation of laws.",
+
+      "GOVERNING LAW & JURISDICTION",
+      "This Agreement shall be governed by Indian law.",
+      "Courts at Durgapur, West Bengal shall have exclusive jurisdiction.",
+
+      "FINAL DISCLAIMER",
+      "All investment decisions are solely the responsibility of the User.",
+      "By using the services, the User confirms full understanding and acceptance of this Complaints Board Disclosure.",
+    ],
+  },
+
+  "PMLA Policy": {
+    title: "PMLA (Anti Money Laundering) Policy",
+    content: [
+      "INTRODUCTION",
+      "This policy is framed and adopted as a requirement under the Prevention of Money Laundering Act, 2002 (PMLA). The policy provides a framework for anti money laundering measures to be undertaken by Krishna Kumar Pathak (Individual), SEBI Registered Research Analyst (Registration No. INH300009914).",
+
+      "I. OBJECTIVE OF THE PMLA POLICY",
+      "To prevent misuse of services for money laundering or terrorist financing.",
+      "To create awareness and clarity on KYC standards and AML measures.",
+      "To establish a proper Client Due Diligence (CDD) process.",
+      "To monitor and report suspicious transactions.",
+      "To monitor and maintain records of cash transactions exceeding ₹10 lakh.",
+
+      "II. CLIENT DUE DILIGENCE (CDD) PROCESS",
+      "Maintain records of valid KYC documents at the time of client onboarding.",
+      "Verify client genuineness through direct interaction.",
+      "Maintain proper records of all client communications and transactions.",
+
+      "III. POLICY FOR ACCEPTANCE OF CLIENT",
+      "No account shall be opened in a fictitious or anonymous name.",
+      "No account shall be opened if fees are offered in cash.",
+      "No account shall be opened where appropriate CDD measures cannot be applied.",
+      "Client identity shall be verified against sanction lists issued by UNSCR.",
+      "Clients shall be categorized into low, medium, or high risk categories.",
+      "Clients of Special Category (CSC) include:",
+      "Non-resident clients, High Net-worth clients, Trusts, NGOs, Politically Exposed Persons (PEP), Companies with complex ownership, Non face-to-face clients, High-risk jurisdiction clients.",
+
+      "IV. SUSPICIOUS TRANSACTIONS",
+      "Transactions where identity verification is difficult.",
+      "Unclear source of funds.",
+      "Unusual increase in transaction volume.",
+      "High-risk jurisdiction transactions.",
+      "Third-party fund transfers.",
+      "All suspicious or attempted transactions shall be reported to FIU-IND.",
+
+      "V. MONITORING OF TRANSACTIONS",
+      "Monitoring of unusually large or complex transactions.",
+      "Internal threshold limits for client accounts.",
+      "Findings to be documented and made available to auditors and regulators.",
+      "Records to be preserved for five years.",
+      "Monitoring includes:",
+      "Cash transactions exceeding ₹10 lakh.",
+      "Structuring of cash transactions within one month.",
+      "Forged or counterfeit currency transactions.",
+      "Suspicious transactions through banking or non-monetary accounts.",
+      "Periodic review against UNSC sanction lists.",
+
+      "VI. RECORD KEEPING AND RETENTION",
+      "Maintain audit trail of all transactions.",
+      "Preserve records related to suspicious transactions for minimum five years.",
+      "Maintain beneficial ownership and fund flow records.",
+      "Records to be retained until closure of investigations if applicable.",
+
+      "VII. INFORMATION TO BE MAINTAINED",
+      "Nature of transaction.",
+      "Amount and currency.",
+      "Date of transaction.",
+      "Parties involved.",
+
+      "VIII. REPORTING TO FIU-IND",
+      "Suspicious and cash transaction reports shall be submitted to:",
+      "Director, Financial Intelligence Unit – India (FIU-IND)",
+      "6th Floor, Hotel Samrat, Chanakyapuri, New Delhi – 110021",
+      "Website: https://fiuindia.gov.in",
+
+      "IX. PRINCIPAL OFFICER & DESIGNATED DIRECTOR",
+      "Name: Krishna Kumar Pathak",
+      "Designation: Research Analyst",
+      "SEBI Registration No.: INH300009914",
+      "BSE Enlistment No.: 5590",
+      "Email: skrishna.sk4@gmail.com",
+      "Phone: +91 9883455700",
+
+      "X. RIGHTS & RESPONSIBILITIES OF PRINCIPAL OFFICER",
+      "Full access to customer identification and CDD data.",
+      "Independence in reporting suspicious transactions.",
+      "Ensuring implementation of PMLA framework.",
+      "Timely reporting to FIU-IND.",
+      "Cooperation with regulators and statutory authorities.",
+      "Regular staff updates on PMLA changes.",
+
+      "XI. RIGHTS & RESPONSIBILITIES OF DESIGNATED DIRECTOR",
+      "Ensure maintenance of records.",
+      "Accountable for failures and subject to regulatory action.",
+
+      "XII. EMPLOYEE HIRING & TRAINING",
+      "Adequate employee screening procedures.",
+      "Regular AML/CFT training programs.",
+
+      "XIII. REVIEW OF POLICY",
+      "The policy shall be reviewed periodically and updated as per regulatory requirements.",
+
+      "DISCLAIMER",
+      "This PMLA Policy is framed in accordance with SEBI regulations and Indian laws and is subject to modification as per regulatory changes.",
+    ],
+  },
+
+  "Disclaimer for Website": {
+    title: "Website Disclaimer",
+    content: [
+      "Krishna Kumar Pathak is registered with SEBI as an Individual Research Analyst vide Registration No. INH300009914 dated 22-06-2022 and provides Research Analyst services to clients in accordance with SEBI regulations.",
+
+      "Investment in securities markets is subject to market risks. Read all related documents carefully before investing.",
+
+      "Registration granted by SEBI and certification from NISM do not guarantee the performance of the intermediary or provide any assurance of returns to investors.",
+
+      "Krishna Kumar Pathak is not affiliated with any other intermediary and does not receive brokerage, commission, or any form of remuneration from any third party.",
+
+      "No penalties or directions have been issued by SEBI or any other regulatory authority against Krishna Kumar Pathak.",
+
+      "No stock broker or intermediary is recommended to any client, and no consideration is received from any such intermediary.",
+
+      "Investment in equity shares carries inherent risks. While sincere efforts are made to present accurate research, information is based on analysis and sources believed to be reliable. Completeness or consistency is not guaranteed.",
+
+      "The content is for personal informational purposes only. Krishna Kumar Pathak does not take responsibility for any financial loss arising from the use of this information and does not assure profits or returns.",
+
+      "No promise or assurance is given for any industry, sector, or business group. Investors should evaluate all risk factors including financial condition and risk-return suitability before investing.",
+
+      "Krishna Kumar Pathak or related persons may hold positions in securities recommended.",
+
+      "Research recommendations are provided only to entitled clients. Any client or third party is strictly prohibited from forwarding, sharing, or redistributing calls, reports, SMS, or any information received. Legal action may be initiated for violations.",
+
+      "Research analysts are functionally independent from sales, trading, or corporate finance activities to maintain objectivity and integrity of research.",
+
+      "Any opinion provided on a specific position shall be considered an opinion and not investment advice. No liability shall arise from reliance on such opinion.",
+
+      "There is no association with issuers of securities, ensuring no conflict of interest and maintaining independence in research services.",
+
+      "Stock trading is inherently risky. Users assume full responsibility for all trading decisions and outcomes.",
+
+      "Simulated or illustrative performance results do not represent actual trading and no assurance is given that similar results will be achieved.",
+
+      "Users bear the entire risk and cost of their investment decisions. Krishna Kumar Pathak and employees are not liable for decisions taken based on the information provided.",
+
+      "Investors are encouraged to use the platform as a research resource and to conduct independent analysis.",
+
+      "All content shared on social media platforms (Twitter, Facebook, Telegram, YouTube, etc.) is for educational and illustrative purposes only and shall not be treated as investment advice or recommendations.",
+
+      "FINAL DISCLAIMER",
+      "Krishna Kumar Pathak and WealthFino shall not be liable for any direct, indirect, incidental, special, or consequential losses including trading losses, data inaccuracies, missed opportunities, technical failures, or reputational harm arising from:",
+      "• Reliance on any research report, opinion, or recommendation",
+      "• Client-supplied KYC errors or outdated information",
+      "• Third-party API or technical disruptions",
+      "• Misuse, misinterpretation, or unauthorized sharing of content",
+
+      "The sole responsibility for investment decisions lies with the user. By using the website, services, or content, the user acknowledges full acceptance of this disclaimer and agrees to indemnify and hold harmless Krishna Kumar Pathak and WealthFino from any resulting liability or claims.",
+    ],
+  },
+
+  "Social Media Disclaimers": {
+    title: "Social Media Disclaimers",
+    content: [
+      "1 .Krishna Kumar Pathak (Individual) is registered with the Securities and Exchange Board of India (SEBI) as an Individual Research Analyst, BSE Enlistment No. 5590, vide Registration No. INH300009914 dated June 22, 2022, pursuant to which he provides Research Analyst services to his clients.",
+
+      "2 . Any content displayed or shared on social media platforms is purely for educational and knowledge purposes only and shall not be treated as investment advice or an opinion of any kind. Neither Krishna Kumar Pathak nor any marketing agents associated with him shall be held liable or responsible, in any manner whatsoever, for any losses incurred by viewers or users acting upon such content.",
+
+      "3 .Investment in securities markets is subject to market risks. Read all related documents carefully before investing.",
+
+      "4 .Registration granted by SEBI and certification from NISM do not in any way guarantee the performance of the intermediary or provide any assurance of returns to investors.",
+
+      "5 .Any opinion on a specific position, suggestion, or view expressed under any circumstances shall not be considered as investment advice. Krishna Kumar Pathak shall not be liable for any losses whatsoever that a client or viewer may incur by acting upon such opinions.",
+
+      "6 .Krishna Kumar Pathak does not make any representation, warranty, or guarantee as to the accuracy, completeness, or timeliness of the information including news, prices, statistics, analysis, or commentary provided through social media platforms. In no event shall he be liable to any person for any decision made or action taken in reliance upon such information.",
+
+      "The securities quoted, if any, are for illustration purposes only and are not recommendatory.",
+    ],
+  },
+
+  "Legal & Risk Disclosure": {
+    title: "Legal & Risk Disclosure",
+    meta: {
+      issuedBy: "Krishna Kumar Pathak",
+      sebiRegNo: "INH300009914",
+      bseEnlistment: "5590",
+      website: "www.krishnapathak.com",
+    },
+    content: [
+      "Krishna Kumar Pathak, a SEBI Registered Research Analyst (Registration No. INH300009914), and the brand WealthFino operate this platform strictly as a research and information service only.",
+
+      "All content provided under WealthFino — including research reports, recommendations, charts, market opinions, or analysis — is intended solely for general informational and educational purposes.",
+
+      "As permitted under the SEBI (Research Analysts) Regulations, 2014, Krishna Kumar Pathak may provide Buy, Sell, or Hold recommendations based on publicly available data and independent analysis.",
+
+      "Such views do not constitute personalised investment advice, portfolio management services, or an invitation to trade or invest. Users must independently evaluate suitability and are advised to consult a qualified investment advisor before making any financial decision.",
+
+      "The platform is not registered to provide portfolio management, investment advisory, broking, or fund management services.",
+
+      "By accessing this platform or its content, users expressly agree and acknowledge that Krishna Kumar Pathak and WealthFino are not responsible or liable for any outcome whatsoever, including financial, technical, or market-related losses.",
+
+      "Krishna Kumar Pathak and WealthFino expressly disclaim liability for technical or system failures including but not limited to website or app crashes, server downtime, cloud outages, power failures, internet disruptions, API timeouts, OTP or authentication failures, login errors, notification failures, or telecom gateway issues.",
+
+      "Security-related events such as malware attacks, ransomware, DDoS attacks, third-party hacking incidents, natural calamities, government actions, strikes, or force majeure events are beyond reasonable control, and no liability shall arise from such occurrences.",
+
+      "Content-related risks include typographical errors, charting delays, incorrect pricing, outdated data, third-party API inaccuracies, graphical inconsistencies, or misinterpretation of research or analysis.",
+
+      "No profit guarantee is provided. Investments in equity, derivatives (F&O), or IPOs are subject to market volatility, price gaps, liquidity risks, trading halts, and capital loss. Users may incur partial or total loss of invested capital.",
+
+      "All trading or investment decisions taken based on platform content are made entirely at the user's own discretion and risk. Emotional or speculative trading decisions are solely the user's responsibility.",
+
+      "As per SEBI’s January 2023 study, 9 out of 10 retail traders in equity F&O incur losses, with an average net loss of approximately ₹50,000 plus transaction costs.",
+
+      "WealthFino may display or link third-party tools, data providers, stock screeners, broker platforms, or APIs. Such third-party services are neither owned nor controlled by Krishna Kumar Pathak or WealthFino, and no guarantee is provided regarding their accuracy, safety, reliability, or uptime.",
+
+      "No guarantee or assurance is provided regarding returns, data accuracy, service continuity, notification delivery, AI outputs, API reliability, or uninterrupted platform access.",
+
+      "Users agree not to hold Krishna Kumar Pathak or WealthFino responsible for network failures, OTP/SMS/email failures, app or website crashes, missed opportunities, profit loss, data breaches, or third-party frauds.",
+
+      "This Legal & Risk Disclosure is governed by the laws of India. Jurisdiction shall lie exclusively with the courts of Durgapur, West Bengal. Any disputes shall be resolved in accordance with applicable Indian arbitration laws.",
+
+      "Payments must be made only through official WealthFino platforms including the mobile application or websites (www.krishnapathak.com) or through payment instructions shared from verified official email IDs only.",
+
+      "Krishna Kumar Pathak and WealthFino shall not be liable for any loss arising from unauthorized payments, impersonation, fraud, scams, or payments made outside official channels.",
+
+      "Users bear full responsibility for verifying the authenticity of communication, protecting personal and financial information, and ensuring payments are made only through authorized channels.",
+
+      "In accordance with SEBI (Research Analysts) Regulations, 2014, the Information Technology Act, 2000, and the Indian Contract Act, 1872, Krishna Kumar Pathak and WealthFino disclaim all liability to the fullest extent permitted by law.",
+
+      "Final Declaration: Krishna Kumar Pathak (SEBI Registered Research Analyst – INH300009914) and the brand WealthFino shall not be held liable for any loss, error, technical failure, fraud, or decision made based on any content shared through their platforms.",
+
+      "Important Payment Notice: Do not transfer funds to unknown individuals or unauthorized links claiming to represent WealthFino. Any such transactions are undertaken at the user’s own risk.",
+
+      "हम किसी भी चीज़ की जिम्मेदारी नहीं लेते — चाहे कोई भी कारण हो, कोई भी परिस्थिति हो, हमें कोई जिम्मेदारी नहीं है।",
+    ],
+  },
+
+  "Refund Policy": {
+    title: "Refund Policy",
+    meta: {
+      issuedBy: "Krishna Kumar Pathak",
+      sebiRegNo: "INH300009914",
+      brand: "WealthFino",
+      supportEmail: "help@krishnapathak.com",
+    },
+    content: [
+      "This Refund Policy governs the conditions under which refunds may be granted for purchases made through our website and mobile application. By completing a purchase on our platform, you acknowledge, understand, and agree to be bound by the terms set forth in this policy.",
+
+      "This Refund Policy applies to all purchases made via our platform, including but not limited to digital research reports, subscriptions, educational content, and market insights. By purchasing any offering, you agree to this Refund Policy in addition to the Terms & Conditions.",
+
+      "Refunds shall be permitted only under limited circumstances such as duplicate payments where the user is charged more than once for the same transaction, or verified technical errors where payment is deducted but the service is not delivered.",
+
+      "To be eligible for a refund, a request must be submitted within seven (7) calendar days from the transaction date and must be supported by valid proof such as a bank statement, UTR number, transaction ID, or payment gateway confirmation.",
+
+      "Once a digital research report, subscription, or any market insight content has been delivered or accessed, no refund shall be permitted under any circumstances.",
+
+      "To initiate a refund request, the customer must send a written request to help@krishnapathak.com within the specified seven-day period along with all relevant payment details.",
+
+      "Upon receipt of a valid refund request, the case shall be reviewed for compliance validation within 5–7 working days. If approved, the refund shall be credited back to the original payment method within 7–10 business days, subject to standard banking timelines.",
+
+      "Refunds shall not be provided in cases where digital content or subscriptions have already been accessed, for subscription renewals after service delivery, dissatisfaction with content quality or interpretation, market outcomes, or requests submitted beyond the seven-day window.",
+
+      "Investment in securities markets is subject to market risks. Research services do not guarantee returns. Users must exercise discretion and consult a qualified financial advisor before acting on any research or recommendation.",
+
+      "Krishna Kumar Pathak (SEBI Registered Research Analyst – INH300009914) shall not be responsible for any loss, overtrading, excessive trading, missed profits, or damages of any nature. All investment and trading decisions remain solely the responsibility of the user.",
+    ],
+  },
+
+  "Cancellation Policy": {
+    title: "Cancellation Policy",
+    meta: {
+      issuedBy: "Krishna Kumar Pathak",
+      sebiRegNo: "INH300009914",
+      brand: "WealthFino",
+    },
+    content: [
+      "This Cancellation Policy sets out the conditions under which cancellations are permitted for purchases made through our website and mobile application. By placing an order, the user acknowledges and agrees to be bound by this policy.",
+
+      "All purchases of digital research reports, subscriptions, and market-related content are final and non-cancellable once such services are delivered, accessed, or made available to the user.",
+
+      "Users may request cancellation of future subscription renewals by providing written notice at least twenty-four (24) to forty-eight (48) hours prior to the next scheduled billing cycle.",
+
+      "Cancellation requests submitted after a subscription renewal has already been processed shall not be accepted under any circumstances.",
+
+      "Orders may be cancelled only at the pre-payment stage. Once payment is successfully completed, cancellation requests shall be governed strictly by this Cancellation Policy and the applicable Refund Policy.",
+
+      "We reserve the right to cancel any order or subscription in cases including but not limited to non-receipt of payment, technical errors preventing service delivery, or breach of the Terms and Conditions by the user.",
+
+      "If payment has been received but no service has been delivered due to reasons attributable to the platform, such cases shall be handled in accordance with the Refund Policy.",
+
+      "Investment in securities markets is subject to market risks. Research services do not guarantee returns. Users must exercise discretion and consult a qualified financial advisor before acting on any research or recommendation.",
+
+      "Krishna Kumar Pathak (SEBI Registered Research Analyst – INH300009914) shall not be responsible for any loss, overtrading, excessive trading, missed profits, or damages of any nature. All investment and trading decisions are taken solely at the user's own risk.",
+    ],
+  },
+
+  "Internal Policy on Conflict of Interest": {
+    title: "Internal Policy on Conflict of Interest",
+    meta: {
+      issuedBy: "Krishna Kumar Pathak",
+      sebiRegNo: "INH300009914",
+      bseEnlistment: "5590",
+    },
+    content: [
+      "This Internal Policy on Conflict of Interest is formulated in compliance with Regulation 15(1) of the SEBI (Research Analyst) Regulations, 2014 and outlines the principles and mechanisms adopted by Krishna Kumar Pathak to identify, avoid, disclose, and manage conflicts of interest arising during the course of research activity.",
+
+      "A conflict of interest refers to any circumstance that may give rise to a personal or professional interest conflicting with the interest of clients or impacting the objectivity and independence of research recommendations.",
+
+      "The Research Analyst ensures honesty, integrity, independence, and transparency in all research and recommendation activities, while maintaining a clear separation between research and any commercial interest.",
+
+      "The Analyst always acts in the best interest of clients, subject to applicable regulatory frameworks, and discloses all material interests or conflicts before or at the time of making any recommendation.",
+
+      "Conflict scenarios include situations where the Analyst or immediate relatives hold financial interest in recommended securities, receive consideration from issuer companies, or provide services to companies under research coverage. In such cases, mandatory disclosures are made as per SEBI RA norms.",
+
+      "Every research report contains disclosures required under Regulation 19(1)(e), including ownership of securities, any past or present business relationship with the issuer, and whether the subject company has been a client within the previous twelve months.",
+
+      "The research function operates independently and is fully segregated from any commercial, advisory, or distribution activity. No incentives, compensation, or consideration are accepted from companies for research coverage.",
+
+      "The Research Analyst is not influenced by promoters, brokers, or any third parties while preparing research reports and does not participate in IPO allocation decisions or fund-raising activities of covered companies.",
+
+      "A restricted list is maintained and updated regularly for companies where conflicts may exist, and no research reports or commentary are issued on such companies during the restriction period.",
+
+      "Internal monitoring mechanisms, audits, and compliance checks are conducted periodically to ensure effective conflict management and adherence to SEBI Research Analyst Regulations.",
+
+      "The Research Analyst and associated personnel undergo periodic training on SEBI RA Regulations, conflict identification and avoidance, research ethics, and compliance standards.",
+
+      "Clients are informed of the Analyst’s SEBI registration details, potential conflicts of interest (if any), and their right to seek clarification or lodge grievances related to conflict matters.",
+
+      "Any breach of this policy is treated as a serious violation and may result in disciplinary action, including reporting to SEBI or BSE where required.",
+
+      "All research reports, disclosures, recommendation logs, and conflict declarations are preserved for a minimum period of five (5) years in accordance with Regulation 25 of the SEBI (Research Analyst) Regulations.",
+
+      "This policy is reviewed annually or earlier if required due to changes in laws, regulations, or business practices, and updated accordingly.",
+
+      "Investment in securities markets is subject to market risks. Past performance is not indicative of future results. Registration granted by SEBI and certification from NISM do not guarantee performance or assurance of returns.",
+    ],
+  },
+
+  "Pro Points Policy": {
+    title: "Pro Points Policy",
+    meta: {
+      brand: "WealthFino",
+      issuedBy: "Krishna Kumar Pathak",
+    },
+    content: [
+      "This Pro Points Policy defines the scope, nature, redemption rules, expiry, and compliance framework governing the Pro Points issued on the WealthFino platform.",
+
+      "Pro Points are redeemable only for eligible in-app premium offerings, premium service access, and approved learning or educational content available within the WealthFino mobile application. No other redemption or usage is permitted.",
+
+      "Pro Points are strictly non-monetary in nature and have no cash value. They cannot be encashed, withdrawn, transferred, traded, gifted, pledged, or converted into currency, bank balance, UPI credit, wallet balance, vouchers, gift cards, or any other cash equivalent.",
+
+      "All unredeemed Pro Points automatically expire at 23:59 IST on the 30th of each calendar month, after which the Pro Points balance resets to zero. Expired Pro Points cannot be restored under any circumstances.",
+
+      "Pro Points are issued solely for user engagement and learning purposes. They are not linked to trading activity, investment performance, profits, losses, or outcomes, and do not influence or impact any research recommendations provided on the platform.",
+
+      "The Pro Points program operates independently of all research, analysis, and recommendation services and does not constitute an inducement to trade or a promise or assurance of returns.",
+
+      "WealthFino reserves the right to modify, suspend, withdraw, or discontinue the Pro Points program, including altering expiry rules or resetting balances (including to zero), with or without prior notice, without any liability for unredeemed or forfeited Pro Points.",
+
+      "Use or accumulation of Pro Points constitutes full acceptance of this Pro Points Policy and the applicable Terms of Use governing the WealthFino platform.",
+
+      "Pro Points are non-monetary engagement rewards with no cash value and are redeemable only for eligible in-app premium or learning services on the WealthFino platform. They cannot be withdrawn, transferred, or converted in any form.",
+
+      "Krishna Kumar Pathak, operating under the brand WealthFino, shall not be liable for any loss, forfeiture, or expiry of Pro Points, including monthly expiries or program modifications, suspension, or termination.",
+
+      "Unredeemed Pro Points expire at 23:59 IST on the 30th of each calendar month unless otherwise modified under this policy.",
+    ],
+  },
+
+  "Data Deletion & Account Removal Policy": {
+    title: "Data Deletion & Account Removal Policy",
+    meta: {
+      brand: "WealthFino",
+      issuedBy: "Krishna Kumar Pathak",
+      sebiRegNo: "INH300009914",
+      contactEmail: "info@krishnapathak.com",
+      website: "https://www.krishnapathak.com",
+    },
+    content: [
+      "WealthFino is a research and education platform operated by Mr. Krishna Kumar Pathak, a SEBI Registered Research Analyst (Registration No. INH300009914). We are committed to protecting user privacy and personal data in accordance with the Digital Personal Data Protection Act, 2023, the Information Technology Act, 2000, and the SEBI (Research Analysts) Regulations, 2014.",
+
+      "This policy applies to all users of the WealthFino mobile application, website, and associated services who have created an account, submitted personal data, or interacted with the platform. It also fulfills Google Play’s Account Deletion and User Data policy requirements.",
+
+      "Users may request deletion of their WealthFino account and associated personal data through either of the following methods: by emailing info@krishnapathak.com from their registered email address, or directly within the mobile application under Profile Settings → Account → Delete My Account.",
+
+      "To prevent unauthorized deletion, all requests must originate from registered contact details. Verification will be completed through OTP or email confirmation. Requests shall not be processed for accounts under dispute, regulatory inquiry, or pending settlements.",
+
+      "Verified account deletion requests are processed within seven (7) working days from confirmation. Users will receive an acknowledgment email upon receipt and a final confirmation once the deletion process is completed.",
+
+      "Upon successful verification, the following data will be permanently deleted: personal identification details, application usage data, non-essential analytics data, and customer support communications.",
+
+      "Certain information may be retained where required by applicable laws or regulations, including transaction records, audit logs, research documentation, and compliance records mandated under SEBI regulations. Such retained data shall be securely stored and shall not be used for any new or unrelated purpose.",
+
+      "Once an account is deleted, user credentials and access rights are permanently disabled. Deleted data cannot be recovered. Users may re-register at a later date using the same or new credentials, subject to applicable onboarding requirements.",
+
+      "For grievances, data protection queries, or escalation, users may contact the Data Protection Officer (DPO) at WealthFino via info@krishnapathak.com. Grievances will be acknowledged within seventy-two (72) hours and resolved within seven to ten (7–10) working days.",
+
+      "This policy complies with Google Play Developer Policy (Account Deletion & User Data), the Digital Personal Data Protection Act, 2023, the Information Technology Act, 2000, and the SEBI (Research Analysts) Regulations, 2014.",
+
+      "Krishna Kumar Pathak, operating under the brand WealthFino, reserves the right to modify this policy in line with legal, regulatory, or platform updates. Revised versions shall be published on the website and mobile application with updated effective dates.",
+
+      "Investment in securities markets is subject to market risks. Past performance is not indicative of future results. Registration granted by SEBI and certification from NISM do not guarantee performance or assurance of returns.",
+    ],
+  },
+
+  
 };

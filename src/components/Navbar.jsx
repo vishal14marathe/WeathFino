@@ -5,11 +5,11 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const menuItems = [
-    { label: "Home", href: "#home" },
+    { label: "Home", href: "/" },
     { label: "Blogs", href: "#blogs" },
     { label: "Charts", href: "#charts" },
     { label: "About", href: "#about" },
-    { label: "Policies", path: "/policies" },  
+    { label: "Policies", path: "/policies" },
     { label: "Contact", href: "#contact" },
   ];
 
