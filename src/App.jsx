@@ -12,6 +12,8 @@ import WhyChooseUs from "./components/WhyChooseUs";
 import FeedbackPage from "./updatedComponets/FeedbackPage";
 
 import Policies from "./components/Policies";
+import ChartPage from "./components/ChartPage";
+import HeatmapPage from "./components/HeatmapPage";
 
 export default function App() {
   return (
@@ -27,6 +29,8 @@ export default function App() {
               <UHome />
               <FeaturesSection />
               <MarketTicker />
+              <ChartPage />
+              <HeatmapPage />
               <About />
               <Services />
               <WhyChooseUs />
