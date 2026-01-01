@@ -814,6 +814,7 @@ export const policiesData = {
       "This PMLA Policy is framed in accordance with SEBI regulations and Indian laws and is subject to modification as per regulatory changes.",
     ],
   },
+  
 
   "Disclaimer for Website": {
     title: "Website Disclaimer",

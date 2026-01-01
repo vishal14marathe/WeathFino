@@ -11,9 +11,27 @@ import Services from "./components/Services";
 import WhyChooseUs from "./components/WhyChooseUs";
 import FeedbackPage from "./updatedComponets/FeedbackPage";
 
-import Policies from "./components/Policies";
 import ChartPage from "./components/ChartPage";
 import HeatmapPage from "./components/HeatmapPage";
+import PoliciesLayout from "./components/PoliciesLayout";
+
+import InvestorCharter from "./pages/policies/InvestorCharter";
+import TermsConditions from "./pages/policies/TermsConditions";
+import PrivacyPolicy from "./pages/policies/PrivacyPolicy";
+import ClientTerm from "./pages/policies/ClientTerm";
+import CodeOfConduct from "./pages/policies/CodeOfConduct";
+import RedressalOfGrievance from "./pages/policies/RedressalOfGrievance";
+import DisclosureUserKYC from "./pages/policies/DisclosureUserKYC";
+import ComplaintsBoard from "./pages/policies/ComplaintsBoard";
+import PMLAPolicy from "./pages/policies/PMLAPolicy";
+import WebsiteDisclaimer from "./pages/policies/WebsiteDisclaimer";
+import SocialMediaDisclaimers from "./pages/policies/SocialMediaDisclaimers";
+import LegalRiskDisclosure from "./pages/policies/LegalRiskDisclosure";
+import RefundPolicy from "./pages/policies/RefundPolicy";
+import CancellationPolicy from "./pages/policies/CancellationPolicy";
+import ConflictOfInterestPolicy from "./pages/policies/ConflictOfInterestPolicy";
+import ProPointsPolicy from "./pages/policies/ProPointsPolicy";
+import DataDeletionPolicy from "./pages/policies/DataDeletionPolicy";
 
 export default function App() {
   return (
@@ -40,7 +58,40 @@ export default function App() {
         />
 
         {/* POLICIES PAGE */}
-        <Route path="/policies" element={<Policies />} />
+        <Route path="/policies" element={<PoliciesLayout />}>
+          <Route path="investor-charter" element={<InvestorCharter />} />
+          <Route path="terms-conditions" element={<TermsConditions />} />
+          <Route path="privacy-policy" element={<PrivacyPolicy />} />
+          <Route path="client-term" element={<ClientTerm />} />
+          <Route path="code-of-conduct" element={<CodeOfConduct />} />
+          <Route path="investor-charter" element={<InvestorCharter />} />
+          <Route path="disclosure-user-kyc" element={<DisclosureUserKYC />} />
+          <Route path="complaints-board" element={<ComplaintsBoard />} />
+          <Route path="pmla-policy" element={<PMLAPolicy />} />
+          <Route path="website-disclaimer" element={<WebsiteDisclaimer />} />
+          <Route
+            path="social-media-disclaimers"
+            element={<SocialMediaDisclaimers />}
+          />
+          <Route
+            path="legal-risk-disclosure"
+            element={<LegalRiskDisclosure />}
+          />
+
+          <Route path="refund-policy" element={<RefundPolicy />} />
+          <Route path="cancellation-policy" element={<CancellationPolicy />} />
+          <Route
+            path="conflict-of-interest-policy"
+            element={<ConflictOfInterestPolicy />}
+          />
+          <Route path="pro-points-policy" element={<ProPointsPolicy />} />
+          <Route path="data-deletion" element={<DataDeletionPolicy />} />
+
+          <Route
+            path="redressal-of-grievance"
+            element={<RedressalOfGrievance />}
+          />
+        </Route>
       </Routes>
 
       <Footer />
