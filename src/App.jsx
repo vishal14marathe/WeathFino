@@ -95,7 +95,6 @@ export default function App() {
         </Route>
 
         <Route path="/about-us" element={<AboutPage />} />
-        
       </Routes>
 
       <Footer />
