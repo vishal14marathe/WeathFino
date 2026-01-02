@@ -32,6 +32,7 @@ import CancellationPolicy from "./pages/policies/CancellationPolicy";
 import ConflictOfInterestPolicy from "./pages/policies/ConflictOfInterestPolicy";
 import ProPointsPolicy from "./pages/policies/ProPointsPolicy";
 import DataDeletionPolicy from "./pages/policies/DataDeletionPolicy";
+import AboutPage from "./components/AboutPage";
 
 export default function App() {
   return (
@@ -92,6 +93,9 @@ export default function App() {
             element={<RedressalOfGrievance />}
           />
         </Route>
+
+        <Route path="/about-us" element={<AboutPage />} />
+        
       </Routes>
 
       <Footer />

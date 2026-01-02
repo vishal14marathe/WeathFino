@@ -1,0 +1,361 @@
+import React from "react";
+
+const AboutPage = () => {
+  return (
+    <div className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100">
+      {/* Hero Section */}
+      <section className="py-12 md:py-20 bg-gradient-to-r from-blue-900 to-indigo-900 text-white">
+        <div className="container mx-auto px-4 md:px-8 max-w-6xl">
+          <h1 className="text-4xl md:text-5xl font-bold mb-6 text-center">
+            About Krishna Pathak
+          </h1>
+          <p className="text-xl text-center max-w-3xl mx-auto opacity-90">
+            SEBI Registered Research Analyst | Founder of WealthFino Capital |
+            Financial Educator
+          </p>
+        </div>
+      </section>
+
+      {/* Main Content */}
+      <div className="container mx-auto px-4 md:px-8 py-12 max-w-6xl">
+        {/* About Me Section */}
+        <section className="mb-16 bg-white rounded-2xl shadow-lg p-6 md:p-8">
+          <h2 className="text-3xl font-bold text-gray-800 mb-6">About Me</h2>
+          <p className="text-lg text-gray-700 mb-6">
+            Learn and trade with simple tools and Research Based Insights.
+          </p>
+
+          <div className="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl p-6 md:p-8 border border-blue-100">
+            <h3 className="text-2xl font-bold text-gray-800 mb-4">
+              Unlock Research Based Insights With Krishna Pathak
+            </h3>
+            <p className="text-gray-700 mb-4">
+              Welcome to Krishna Pathak's Insight Hub, where we combine valuable
+              knowledge with trading insights. We don't just offer
+              recommendations; we explain the reasoning behind every trade and
+              provide chart explanations with clear logic, making it easy for
+              anyone to learn, regardless of age or background.
+            </p>
+            <p className="text-gray-700">
+              Join us to keep learning, expand your understanding, and take the
+              first step in your Learning journey.
+            </p>
+          </div>
+        </section>
+
+        {/* SEBI Registration Section */}
+        <section className="mb-16 bg-white rounded-2xl shadow-lg p-6 md:p-8">
+          <h2 className="text-3xl font-bold text-gray-800 mb-8 text-center">
+            Meet Krishna Pathak - Your SEBI Registered Research Analyst
+          </h2>
+
+          <div className="flex flex-col lg:flex-row gap-8 items-center">
+            <div className="lg:w-2/3">
+              <p className="text-gray-700 mb-6">
+                Krishna Pathak is a SEBI Registered Research Analyst and the
+                founder of WealthFino Capital, a platform dedicated to promoting
+                financial education, disciplined investing, and research-driven
+                learning for retail investors.
+              </p>
+
+              <div className="space-y-4">
+                <div className="flex items-center gap-3">
+                  <div className="w-6 h-6 rounded-full bg-green-100 flex items-center justify-center">
+                    <div className="w-3 h-3 rounded-full bg-green-600"></div>
+                  </div>
+                  <span className="text-gray-700">
+                    <strong>SEBI Registered Research Analyst:</strong>{" "}
+                    INH300009914
+                  </span>
+                </div>
+
+                <div className="flex items-center gap-3">
+                  <div className="w-6 h-6 rounded-full bg-green-100 flex items-center justify-center">
+                    <div className="w-3 h-3 rounded-full bg-green-600"></div>
+                  </div>
+                  <span className="text-gray-700">
+                    Certifications in NISM Series XV: Research Analyst, NSE Goal
+                    Planning
+                  </span>
+                </div>
+
+                <div className="flex items-center gap-3">
+                  <div className="w-6 h-6 rounded-full bg-green-100 flex items-center justify-center">
+                    <div className="w-3 h-3 rounded-full bg-green-600"></div>
+                  </div>
+                  <span className="text-gray-700">
+                    Post Graduate Diploma in Management (PGDM)
+                  </span>
+                </div>
+
+                <div className="flex items-center gap-3">
+                  <div className="w-6 h-6 rounded-full bg-green-100 flex items-center justify-center">
+                    <div className="w-3 h-3 rounded-full bg-green-600"></div>
+                  </div>
+                  <span className="text-gray-700">
+                    BSE Enlistment No - 5590
+                  </span>
+                </div>
+
+                <div className="flex items-center gap-3">
+                  <div className="w-6 h-6 rounded-full bg-green-100 flex items-center justify-center">
+                    <div className="w-3 h-3 rounded-full bg-green-600"></div>
+                  </div>
+                  <span className="text-gray-700">
+                    Founder - WealthFino Capital
+                  </span>
+                </div>
+              </div>
+            </div>
+
+            <div className="lg:w-1/3 flex justify-center">
+              <div className="bg-gradient-to-br from-blue-500 to-indigo-700 text-white rounded-xl p-6 text-center shadow-lg">
+                <div className="text-4xl font-bold mb-2">SEBI</div>
+                <div className="text-sm mb-4">Registered</div>
+                <div className="text-lg font-semibold">Research Analyst</div>
+                <div className="text-sm mt-4">INH300009914</div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Transparency Section */}
+        <section className="mb-16 bg-white rounded-2xl shadow-lg p-6 md:p-8">
+          <h2 className="text-3xl font-bold text-gray-800 mb-8 text-center">
+            Commitment to Transparency and Investor Awareness
+          </h2>
+
+          <div className="mb-10">
+            <p className="text-gray-700 mb-6">
+              As a professional regulated by the Securities and Exchange Board
+              of India (SEBI), Krishna provides:
+            </p>
+
+            <div className="grid md:grid-cols-3 gap-6">
+              <div className="bg-gray-50 rounded-lg p-6 border border-gray-200">
+                <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center mb-4">
+                  <span className="text-blue-600 font-bold">✓</span>
+                </div>
+                <h4 className="font-bold text-lg text-gray-800 mb-2">
+                  Equity Research
+                </h4>
+                <p className="text-gray-700">
+                  Based on publicly available information
+                </p>
+              </div>
+
+              <div className="bg-gray-50 rounded-lg p-6 border border-gray-200">
+                <div className="w-10 h-10 rounded-full bg-green-100 flex items-center justify-center mb-4">
+                  <span className="text-green-600 font-bold">✓</span>
+                </div>
+                <h4 className="font-bold text-lg text-gray-800 mb-2">
+                  Market Insights
+                </h4>
+                <p className="text-gray-700">
+                  Grounded in technical and fundamental analysis
+                </p>
+              </div>
+
+              <div className="bg-gray-50 rounded-lg p-6 border border-gray-200">
+                <div className="w-10 h-10 rounded-full bg-purple-100 flex items-center justify-center mb-4">
+                  <span className="text-purple-600 font-bold">✓</span>
+                </div>
+                <h4 className="font-bold text-lg text-gray-800 mb-2">
+                  Stock Recommendations
+                </h4>
+                <p className="text-gray-700">
+                  Research-based and SEBI compliant
+                </p>
+              </div>
+            </div>
+
+            <p className="text-gray-700 mt-8 text-center">
+              His research is developed independently and shared in accordance
+              with SEBI's guidelines to promote awareness, transparency, and
+              investor understanding.
+            </p>
+          </div>
+
+          <div className="border-t pt-8">
+            <h3 className="text-2xl font-bold text-gray-800 mb-6">
+              What an SEBI Registered Research Analyst Can Do
+            </h3>
+            <p className="text-gray-700 mb-6">
+              As per SEBI (Research Analyst) Regulations, Krishna Pathak is
+              authorized to:
+            </p>
+
+            <div className="grid md:grid-cols-2 gap-4">
+              <div className="flex items-start gap-3">
+                <div className="w-6 h-6 rounded-full bg-green-100 flex-shrink-0 flex items-center justify-center mt-1">
+                  <div className="w-3 h-3 rounded-full bg-green-600"></div>
+                </div>
+                <span className="text-gray-700">
+                  Publish independent research reports and views on securities
+                  and market trends
+                </span>
+              </div>
+
+              <div className="flex items-start gap-3">
+                <div className="w-6 h-6 rounded-full bg-green-100 flex-shrink-0 flex items-center justify-center mt-1">
+                  <div className="w-3 h-3 rounded-full bg-green-600"></div>
+                </div>
+                <span className="text-gray-700">
+                  Share non-advisory insights based on objective analysis and
+                  research
+                </span>
+              </div>
+
+              <div className="flex items-start gap-3">
+                <div className="w-6 h-6 rounded-full bg-green-100 flex-shrink-0 flex items-center justify-center mt-1">
+                  <div className="w-3 h-3 rounded-full bg-green-600"></div>
+                </div>
+                <span className="text-gray-700">
+                  Promote financial literacy and help investors understand
+                  market dynamics
+                </span>
+              </div>
+
+              <div className="flex items-start gap-3">
+                <div className="w-6 h-6 rounded-full bg-green-100 flex-shrink-0 flex items-center justify-center mt-1">
+                  <div className="w-3 h-3 rounded-full bg-green-600"></div>
+                </div>
+                <span className="text-gray-700">
+                  Support clients through well-researched, non-discretionary
+                  recommendations
+                </span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Education Mission Section */}
+        <section className="mb-16 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-2xl shadow-lg p-6 md:p-8 border border-blue-100">
+          <h2 className="text-3xl font-bold text-gray-800 mb-6">
+            Beyond Research - A Mission to Educate
+          </h2>
+
+          <div className="mb-8">
+            <p className="text-gray-700 mb-6">
+              Krishna has been featured in leading financial and news platforms
+              such as
+              <span className="font-semibold">
+                {" "}
+                The Economic Times, CNBC, MSM, Indverts, Investing.com, Against
+                News, Stockwits, and Moreycontrol
+              </span>
+              , and is also recognised by MDRT (Million Dollar Round Table) for
+              his financial insights.
+            </p>
+
+            <p className="text-gray-700">
+              More than just a market researcher, Krishna Kumar Pathak is a
+              mentor and educator focused on promoting financial literacy and he
+              encourages beginners to:
+            </p>
+          </div>
+
+          <div className="grid md:grid-cols-2 gap-6 mb-8">
+            <div className="flex items-center gap-3 bg-white rounded-lg p-4 shadow-sm">
+              <div className="w-8 h-8 rounded-full bg-green-100 flex items-center justify-center flex-shrink-0">
+                <div className="w-4 h-4 rounded-full bg-green-600"></div>
+              </div>
+              <span className="text-gray-700 font-medium">
+                Start with education and awareness
+              </span>
+            </div>
+
+            <div className="flex items-center gap-3 bg-white rounded-lg p-4 shadow-sm">
+              <div className="w-8 h-8 rounded-full bg-blue-100 flex items-center justify-center flex-shrink-0">
+                <div className="w-4 h-4 rounded-full bg-blue-600"></div>
+              </div>
+              <span className="text-gray-700 font-medium">
+                Set clear investment goals
+              </span>
+            </div>
+
+            <div className="flex items-center gap-3 bg-white rounded-lg p-4 shadow-sm">
+              <div className="w-8 h-8 rounded-full bg-purple-100 flex items-center justify-center flex-shrink-0">
+                <div className="w-4 h-4 rounded-full bg-purple-600"></div>
+              </div>
+              <span className="text-gray-700 font-medium">
+                Practice risk management and diversification
+              </span>
+            </div>
+
+            <div className="flex items-center gap-3 bg-white rounded-lg p-4 shadow-sm">
+              <div className="w-8 h-8 rounded-full bg-amber-100 flex items-center justify-center flex-shrink-0">
+                <div className="w-4 h-4 rounded-full bg-amber-600"></div>
+              </div>
+              <span className="text-gray-700 font-medium">
+                Focus on long-term learning and patience
+              </span>
+            </div>
+          </div>
+
+          <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-200">
+            <p className="text-gray-700 text-center italic">
+              Through research-based insights and educational content, Krishna
+              aims to empower individuals to make informed financial decisions —
+              without relying on tips or speculation.
+            </p>
+          </div>
+        </section>
+
+        {/* Disclaimer Section */}
+        <section className="bg-red-50 border border-red-200 rounded-2xl shadow-lg p-6 md:p-8">
+          <h2 className="text-2xl font-bold text-gray-800 mb-6 text-center">
+            DISCLAIMER
+          </h2>
+
+          <div className="space-y-4 text-gray-700">
+            <p>
+              Investment in the securities market is subject to market risks.
+              Please read all related documents carefully before investing.
+              Trading in Futures & Options (F&O) carries a high level of risk
+              and may not be suitable for all investors, as it depends heavily
+              on market momentum and volatility.
+            </p>
+
+            <p>
+              Registration granted by SEBI and certification from NISM in no way
+              guarantee the performance of the intermediary or provide any
+              assurance of returns to investors. Past performance is not
+              indicative of future results.
+            </p>
+
+            <div className="bg-white p-4 rounded-lg border border-gray-300 mt-6">
+              <p className="font-bold text-gray-800 mb-2">
+                Dear Members, it is mandatory to read and understand all Terms &
+                Conditions, including:
+              </p>
+              <ul className="list-disc pl-5 space-y-1 text-gray-700">
+                <li>SEBI Guidelines</li>
+                <li>Research Disclaimers</li>
+                <li>User Guidelines</li>
+                <li>Investor Charter</li>
+                <li>Grievance Redressal Policy</li>
+              </ul>
+            </div>
+
+            <div className="text-center mt-8">
+              <p className="font-bold text-gray-800 mb-4">
+                For more details, visit:
+              </p>
+              <a
+                href="https://www.krishnapathak.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-lg transition duration-300"
+              >
+                www.krishnapathak.com
+              </a>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  );
+};
+
+export default AboutPage;
